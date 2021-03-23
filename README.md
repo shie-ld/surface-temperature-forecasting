@@ -299,18 +299,6 @@ python parametricscheme.py --latitude 47.6928 --longitude -122.3038  \
 
 Make intermediate forecasts in data.csv file every 60 mins for 24 hours (1440 = 24 * 60 mins).
 
-The notebooks directory contains the
-[plot_temperature_and_fluxes.ipynb](https://github.com/makeyourownmaker/ParametricWeatherModel/blob/master/notebooks/plot_temperature_and_fluxes.ipynb)
-notebook which will plot the data.csv file.
-In addition to [Jupyter](https://jupyter.org/) it requires the following packages to run locally:
-  * [pandas](https://pandas.pydata.org/)
-  * [matplotlib](https://matplotlib.org/)
-
-Alternatively, check notebook(s) remotely:
-  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/makeyourownmaker/ParametricWeatherModel/blob/master/notebooks/plot_temperature_and_fluxes.ipynb) - editable
-  * [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/makeyourownmaker/ParametricWeatherModel/master?filepath=notebooks%2Fplot_temperature_and_fluxes.ipynb) - editable
-  * View on [NBViewer](https://nbviewer.jupyter.org/github/makeyourownmaker/ParametricWeatherModel/blob/master/notebooks/plot_temperature_and_fluxes.ipynb)
-  * View on [GitHub](https://github.com/makeyourownmaker/ParametricWeatherModel/blob/master/notebooks/plot_temperature_and_fluxes.ipynb)
 
 ### Limitations and assumptions
 
